@@ -4,7 +4,7 @@ My name is Cesar Eduardo Sturmer, I am 26 years 👦
 
 I'm an information systems student - 👨‍💻 👨‍💻
 
-Unisul 🏫
+Sistemas de Informação - Unisul 🏫
 
 Florianópolis - Santa Catarina 
 
