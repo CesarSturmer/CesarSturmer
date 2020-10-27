@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Cesar Eduardo Sturmer, I am 26 years 👦
+My name is Cesar Sturmer, I am 26 years 👦
 
 I'm an information systems student - 👨‍💻 👨‍💻
 
