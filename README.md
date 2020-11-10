@@ -6,7 +6,7 @@
 
 ### Florianópolis - Santa Catarina 
 
-# - Sapere aude 🧠
+# Sapere aude 🧠
 
 
 
