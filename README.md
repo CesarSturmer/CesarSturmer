@@ -13,7 +13,7 @@
 # Technology Skills
 
 
-[![css Badge](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![css Badge](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 
 
