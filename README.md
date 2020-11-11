@@ -22,9 +22,24 @@
 
 # 👨👩 Social
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/césar-sturmer-84394117a)](https://www.linkedin.com/in/césar-sturmer-84394117a) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-DarkRed?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cesarsturmer/)](https://www.instagram.com/cesarsturmer/) 
-![facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/cesar.sturmer/)
+
+<a href="https://www.linkedin.com/in/césar-sturmer-84394117a" target="_blank">
+	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/cesarsturmer" target="_blank">
+	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://www.facebook.com/cesar.sturmer" target="_blank">
+	<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+
+<a href="https://twitter.com/FelippeBaltazar" target="_blank">
+	<img src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
+</a>
+
+
  
  
  
