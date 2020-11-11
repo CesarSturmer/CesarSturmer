@@ -14,6 +14,11 @@
 
 
 ![css Badge](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![html Badge](https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![javascript Badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+
 
 
 
