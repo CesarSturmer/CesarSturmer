@@ -22,7 +22,6 @@
 
 # 👨👩 Social
 
-
 <a href="https://www.linkedin.com/in/césar-sturmer-84394117a" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -35,7 +34,7 @@
 	<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
-<a href="https://twitter.com/FelippeBaltazar" target="_blank">
+<a href="https://twitter.com/cesar_eduardosc" target="_blank">
 	<img src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
 </a>
 
