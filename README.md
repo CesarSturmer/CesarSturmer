@@ -5,7 +5,7 @@
  Sistemas de Informação - Unisul 🏫
 
  Florianópolis - Santa Catarina 
-# Sapere aude 🧠
+# 🧠 Sapere aude 
 
 
 # 👨👩 Social
