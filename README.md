@@ -5,13 +5,11 @@
  Sistemas de Informação - Unisul 🏫
 
  Florianópolis - Santa Catarina 
-
 # Sapere aude 🧠
 
 
 
-# Technology Skills
-
+# 👨‍💻 Technology Skills
 
 ![css Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![html Badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -22,12 +20,11 @@
 
 
 
-
-
-
+# 👨👩 Social
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/césar-sturmer-84394117a)](https://www.linkedin.com/in/césar-sturmer-84394117a) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-DarkRed?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cesarsturmer/)](https://www.instagram.com/cesarsturmer/) 
+[![facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/cesar.sturmer/)]
  
  
  
