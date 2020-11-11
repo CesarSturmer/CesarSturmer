@@ -1,10 +1,10 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm César !
 
-### I'm an information systems student - 👨‍💻 👨‍💻
+ I'm an information systems student - 👨‍💻 👨‍💻
 
-### Sistemas de Informação - Unisul 🏫
+ Sistemas de Informação - Unisul 🏫
 
-### Florianópolis - Santa Catarina 
+ Florianópolis - Santa Catarina 
 
 # Sapere aude 🧠
 
