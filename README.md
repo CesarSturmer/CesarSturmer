@@ -8,7 +8,7 @@
 # 🧠 Sapere aude 
 
 
-# 👨👩 Social
+# 👨 Social
 
 <a href="https://www.linkedin.com/in/césar-sturmer-84394117a" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
