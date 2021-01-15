@@ -27,6 +27,12 @@
 
 
 
+## Learned languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsturmer&layout=compact&theme=radical&hide_border=true)  
+_Currently learning ReactJS_
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cesarsturmer&show_icons=true&theme=radical&hide_border=true&custom_title=Nomad's%20stats)
+
 
 # 👨‍💻 Technology Skills
 
