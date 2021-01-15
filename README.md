@@ -5,8 +5,8 @@
  Sistemas de Informação - Unisul 🏫
 
  Florianópolis - Santa Catarina 🌅
+ 
 # 🧠 Sapere aude 
-
 
 # 👨 Social
 
@@ -21,6 +21,7 @@
 <a href="https://www.facebook.com/cesar.sturmer" target="_blank">
 	<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
 </a>
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsturmer&layout=compact&theme=dark&hide_border=true)  
