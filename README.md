@@ -36,7 +36,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsturmer&layout=compact&theme=dark&hide_border=true)  
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cesarsturmer&show_icons=true&theme=dark&hide_border=true&custom_title=Cesar Sturmer's%20stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cesarsturmer&show_icons=true&theme=dark&hide_border=true&custom_title=CesarSturmer's%20stats)
 
  
  
