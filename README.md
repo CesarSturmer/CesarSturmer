@@ -23,13 +23,6 @@
 </a>
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsturmer&layout=compact&theme=dark&hide_border=true)  
-_Currently learning ReactJS_
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cesarsturmer&show_icons=true&theme=dark&hide_border=true&custom_title=Nomad's%20stats)
-
-
 # 👨‍💻 Technology Skills
 
 ![css Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -39,9 +32,11 @@ _Currently learning ReactJS_
 ![react Badge](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 
+# octocat:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsturmer&layout=compact&theme=dark&hide_border=true)  
+_Currently learning ReactJS_
 
-
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cesarsturmer&show_icons=true&theme=dark&hide_border=true&custom_title=Nomad's%20stats)
 
  
  
